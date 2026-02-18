@@ -1,0 +1,16 @@
+python-telegram-bot==13.7
+python-dotenv==1.0.0
+flask==2.3.3
+gunicorn==20.1.0
+urllib3==1.26.20
+six==1.16.0
+boto3==1.34.128
+botocore==1.34.128
+pytz==2024.1
+waitress==2.1.2
+pyarrow==20.0.0
+requests==2.31.0
+psutil==5.9.6
+speedtest-cli==2.1.3
+schedule==1.2.1
+setuptools==68.2.2
